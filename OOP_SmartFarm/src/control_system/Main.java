@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Main {
 	
-	public static void menu() {//메뉴형식으로 구현
+	public static void menu() {
 		System.out.println("\n*****************************");
 		System.out.println("**  [ menu ]               **");
 		System.out.println("**  0 : menu               **");
